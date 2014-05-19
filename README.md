@@ -1,4 +1,4 @@
-Encapsulated-Widget
+Encapsulated jQuery (Zepto) Widget
 ===================
 
 ## What does it do?
